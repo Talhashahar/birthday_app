@@ -15,7 +15,7 @@
         android:layout_gravity="center"
         android:gravity="right"
         android:paddingRight="20dp"
-        tools:text="maor"
+        tools:text="Tal"
         android:textColor="@android:color/black" />
 
     <TextView

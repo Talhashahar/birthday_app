@@ -10,7 +10,7 @@ import com.birthday.mybirthday.adapter.BirthDateListAdapter;
 import static android.support.v7.widget.helper.ItemTouchHelper.Callback.getDefaultUIUtil;
 
 /**
- * Created by maor on 10/05/2018.
+ * Created by Tal Hashahar on 10/05/2018.
  */
 
 public class RecyclerItemTouchHelper extends ItemTouchHelper.SimpleCallback {
